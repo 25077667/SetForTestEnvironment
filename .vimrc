@@ -30,7 +30,7 @@ inoremap ( ()<Esc>i
 inoremap " ""<Esc>i
 inoremap ' ''<Esc>i
 inoremap [ []<Esc>i
-inoremap < <><Esc>i
+"inoremap < <><Esc>i
 inoremap {<CR> {<CR>}<Esc>ko
 
 filetype indent on
