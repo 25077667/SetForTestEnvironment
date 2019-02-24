@@ -1,4 +1,4 @@
-# vim_SetForTest
+# SetForTestEnvironment
 testing environment is ubuntu
 
 # install vim
